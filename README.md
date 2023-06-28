@@ -1,4 +1,4 @@
-# <h1>Project Description: Snip URL Shortener<h1>
+# <h1>Project Description: Snip URL Shortener Insomnia Documentation<h1>
 
 - Instruction
 
